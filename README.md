@@ -1,6 +1,6 @@
-# This projects folder is full fresh start to my approach to Python
+# This projects folder will contain a series of projects pertaining to Python
 
-This folder will contain projects for different levels and concepts that I devote towards my self learning and understanding. 
+This folder will contain projects for different levels and concepts that I devote towards my self learning and understanding and for cyber security, ML, and high performance computing. 
 
 One might say a last attempt at the Software Engineering world and SDE/SWE world.
 
