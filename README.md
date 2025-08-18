@@ -9,3 +9,4 @@ and am willing to turn a new leaf in my career.
 # NewProj_Late2025
 
 Project 1: Expansion-Based ExpenseTracking Auto Script
+(Ignore, basic schedule project (static), will expand on advancing work for auto schedule creation website)
